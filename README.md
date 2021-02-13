@@ -17,7 +17,7 @@ Creating links and linking it with artboards
 Preview the prototype.
 
 ## DESIGN SCREENS:
-![output](./static/images/Design_Adobe_XD.mp4)
+![output](./static/images/1.mp4)
 
 
 ## WIREFRAME:
